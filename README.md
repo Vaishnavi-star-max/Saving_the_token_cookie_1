@@ -1,3 +1,4 @@
+
 # Lab Exercies: How to Encrypt and Decrypt a JWT Token
 
 ## 🎯 Objectives
